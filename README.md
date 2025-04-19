@@ -6,6 +6,8 @@ This project implements a machine learning model to predict house prices in Bang
 
 The Bangalore House Price Prediction project utilizes a dataset from Kaggle to train a machine learning model that can estimate house prices based on various features. The project emphasizes data cleaning, feature engineering, and model selection to achieve reliable predictions.
 
+Research Paper Link :- https://ijcrt.org/viewfulltext.php?&p_id=IJCRT2403626
+
 ## Core Features
 
 * **House Price Prediction:** Predicts the price of a house based on its features.
@@ -44,10 +46,10 @@ The project follows a structured methodology:
     * Identifying and removing data points that deviate significantly from the general trend.  
 6.  **Model Selection and Training:**
    
-    * Training several machine learning models (e.g., Linear Regression, Ridge Regression, Lasso Regression) and comparing their performance using techniques like GridSearchCV and cross-validation. [179]
+    * Training several machine learning models (e.g., Linear Regression, Ridge Regression, Lasso Regression) and comparing their performance using techniques like GridSearchCV and cross-validation. 
 7.  **Model Evaluation:**
    
-    * Assessing the accuracy and reliability of the chosen model using metrics like R-squared score. [176]
+    * Assessing the accuracy and reliability of the chosen model using metrics like R-squared score. 
 8.  **Prediction:**
    
-    * Using the trained model to predict house prices for new input data. [181]
+    * Using the trained model to predict house prices for new input data. 
